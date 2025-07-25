@@ -23,33 +23,29 @@
 
 ---
 
-## 🙋 Hello
+
+### 🙋 About Me
+
+<p>&emsp;&emsp;我是 Gamer 👋 热爱编程、摄影、读书、旅行。</p>
+<p>&emsp;&emsp;<strong>_"We're making the world a better place through elegant code reuse and extensibility."_</strong></p>
 
 <table>
+  
 <tr><td>
 
-### 🤺 About Me
+#### 🏫 Education
 
-<img align="right" width="100" src="https://github.com/GamerMMM/GamerMMM/tree/main/assets/about_me.png" />
+<img align="right" width="88" src="https://github.com/GamerMMM/GamerMMM/blob/main/assets/Beihang.png" />
 
-- 我是 Gamer 👋  
-- _"We're making the world a better place through elegant code reuse and extensibility."_
+- 北京航空航天大学 (Beihang University) &emsp; 📌 2022-09 —— 2026-06
+
+  - 生物医学工程
+
 
 </td></tr>
 
 <tr><td>
 
-### 🏫 Education
-
-<img align="right" width="100" src="https://github.com/GamerMMM/GamerMMM/tree/main/assets/Beihang.png" />
-
-- 北京航空航天大学 (Beihang University)  
-- 📍 2022 年 9 月入学
-
-</td></tr>
-</table>
-
----
 
 <div align="center" style="max-width: 100%;">
 
@@ -72,8 +68,8 @@
 ![Gamer's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GamerMMM&layout=compact&hide_border=true&langs_count=10)
 
 <p>
-  <img src="https://stats-cards-drab.vercel.app/api/leetcode/?cn_username=gamer-2k" alt="Gamer's LeetCode Stats" width="39%" style="border: none;" />
-  <img src="https://stats-cards-drab.vercel.app/api/steam/?id=76561199465474229" alt="Gamer's steam Stats" width="39%" style="border: none;" /> 
+  <img src="https://stats-cards-drab.vercel.app/api/leetcode/?cn_username=gamer-2k" alt="Gamer's LeetCode Stats" width="49%" style="border: none;" />
+  <img src="https://stats-cards-drab.vercel.app/api/steam/?id=76561199465474229" alt="Gamer's steam Stats" width="49%" style="border: none;" /> 
 </p>
 
 </div>
