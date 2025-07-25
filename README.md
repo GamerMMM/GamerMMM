@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 动态打字效果 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);你知道人生最要紧的事就是快乐不停)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=你知道人生最要紧的事就是快乐不停)](https://git.io/typing-svg)
 
 <!-- 空行 -->
 <div>&nbsp;</div>
@@ -68,13 +68,16 @@
 
 ---
 
-## 📈 GitHub Metrics
+## 📈 My States
 
 <div align="center">
 
-<!-- 修改为 GamerMMM 的 metrics，以下是你可以使用的指标来源 -->
-<img src="https://github.com/GamerMMM/GamerMMM/blob/main/github-metrics.svg" style="max-width: 100%;" />
+![Gamer's GitHub stats](https://github-readme-stats.vercel.app/api?username=GamerMMM&show_icons=true&theme=radical)
 
-<!-- 或者使用官方服务生成多个卡片： https://github.com/lowlighter/metrics -->
+<p>
+  <img src="https://stats.justsong.cn/api/leetcode/?username=Gamer.&theme=light" alt="Gamer's LeetCode Stats" width="49%" />
+  <img src="https://stats.justsong.cn/api/steam" alt="Gamer's LeetCode Stats" width="49%" /> 
+</p>
+
 
 </div>
