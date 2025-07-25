@@ -60,6 +60,7 @@
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/base.svg" />
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
+
 <div align="center" >
 
 <table>
@@ -72,14 +73,14 @@
       </picture>
   </tr>
 </table>
+</div>
 
 <div align="center" >
-
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+</div>
 
 <div align="center" >
-
 <!-- second form 第二个表格 -->
 <table>
   <tr>
@@ -107,3 +108,4 @@
     <td><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/stargazers.chartist.svg" alt="stargazers.chartist" /></td>
   </tr>
 </table>
+</div>
