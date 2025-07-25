@@ -7,13 +7,10 @@
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
 
-
-
-
-    <!-- visitor -->
-    <img src="https://komarev.com/ghpvc/?username=sun0225SUN&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
-    <!-- wakatime -->    
-    <a href="https://wakatime.com/@sun0225SUN"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a>
+<!-- visitor -->
+<img src="https://komarev.com/ghpvc/?username=sun0225SUN&label=Views&color=orange&style=flat" alt="访问量统计" />&emsp;
+<!-- wakatime -->    
+<a href="https://wakatime.com/@sun0225SUN"><img src="https://wakatime.com/badge/user/42d0678c-368b-448b-9a77-5d21c5b55352.svg" /></a>
 
   </div>
 
@@ -63,6 +60,8 @@
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/github-metrics/base.svg" />
 
 <!-- GitHub Activity Graph GitHub 活动图 -->
+<div align="center" >
+
 <table>
   <tr>
     <td>
@@ -73,11 +72,6 @@
       </picture>
   </tr>
 </table>
-
-</div>
-
-<!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
 <div align="center" >
 
