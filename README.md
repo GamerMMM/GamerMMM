@@ -7,7 +7,7 @@
   <!-- for beauty 留个空行好看点 -->
   <div>&nbsp;</div>
 
-<img src=https://metrics.lecoq.io/GamerMMM?template=classic&stars=1&isocalendar=1&introduction=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&stars=false&stars.limit=4&introduction=false&introduction.title=true&config.timezone=Asia%2FShanghai/>&emsp;
+
 
 
     <!-- visitor -->
@@ -49,102 +49,15 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/yuanze.png" />
 
-- 北京航空航天大学 &emsp; 📌 2024-03-04 —— 2024-08-28
+- 北京航空航天大学 &emsp; 📌 2022-09
 
-  - 工作岗位：软件研发工程师
-  - 工作内容：软件开发与维护
 
 </td></tr>
 
 <tr><td>
 
-### 📃 Recent Blog
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
-
-<!-- feed start -->
-- Mar 18 - [昆仑巢「疯狂星期六」，没有人是一座孤岛～](https://blog.guoqi.dev/posts/kunlunchao/)
-- Mar 10 - [你好，北京！你好，原则科技！一切都是最好的安排！](https://blog.guoqi.dev/posts/yuanze/)
-- Feb 20 - [行则将至，未来可期，和 2023 好好说声再见吧！](https://blog.guoqi.dev/posts/2023/)
-- Feb 16 - [西藏之旅｜青春没有售价，火车直达拉萨！](https://blog.guoqi.dev/posts/xizang/)
-- Jan 03 - [珠海之旅｜去感受风，去聆听海，去触摸，去抵达](https://blog.guoqi.dev/posts/zhuhai/)
-<!-- feed end -->
-
-</td></tr>
-
-<tr><td>
 
 ### 📊 WakaTime
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: light)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
-</picture>
-
-</td></tr>
-
-<tr><td>
-
-<!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                673 commits         ███████░░░░░░░░░░░░░░░░░░   26.83 % 
-🌆 Daytime                814 commits         ████████░░░░░░░░░░░░░░░░░   32.46 % 
-🌃 Evening                585 commits         ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
-🌙 Night                  436 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   327 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-Tuesday                  244 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-Wednesday                389 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
-Thursday                 284 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
-Friday                   630 commits         ██████░░░░░░░░░░░░░░░░░░░   25.12 % 
-Saturday                 208 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
-Sunday                   426 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.99 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-TypeScript               34 hrs 51 mins      █████████████████████████   98.81 % 
-JSON                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
-CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
-SCSS                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-
-🔥 Editors: 
-Cursor                   29 hrs 4 mins       █████████████████████░░░░   82.44 % 
-VS Code                  6 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
-
-💻 Operating System: 
-Mac                      35 hrs 16 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 24/07/2025 00:47:40 UTC
-<!--END_SECTION:waka-->
-
-</td></tr>
-
-</table>
-
-
-<!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
 
 <div align="center">
 
@@ -177,9 +90,9 @@ Mac                      35 hrs 16 mins      ███████████�
   <tr>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sun0225SUN&theme=xcode&bg_color=FF000000&hide_border=true" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sun0225SUN&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=sun0225SUN&theme=xcode&bg_color=FF000000&hide_border=true" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=GamerMMM&theme=xcode&bg_color=FF000000&hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=GamerMMM&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=GamerMMM&theme=xcode&bg_color=FF000000&hide_border=true" />
       </picture>
   </tr>
 </table>
