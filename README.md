@@ -30,11 +30,9 @@
 
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
+<img align="right" width="100" src="https://github.com/GamerMMM/GamerMMM/tree/main/assets/about_me.png" />
 
-- 嗨，你好，我是 GamerMMM 👋 热爱编程、摄影、读书、旅行  
-- 热爱计算机科学和互联网，希望成为优秀开发者  
-- 我们通过优雅的代码复用体系，让世界更美好 🌍  
+- 我是 Gamer 👋  
 - _"We're making the world a better place through elegant code reuse and extensibility."_
 
 </td></tr>
@@ -43,7 +41,7 @@
 
 ### 🏫 Education
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/yuanze.png" />
+<img align="right" width="100" src="https://github.com/GamerMMM/GamerMMM/tree/main/assets/Beihang.png" />
 
 - 北京航空航天大学 (Beihang University)  
 - 📍 2022 年 9 月入学
@@ -52,8 +50,6 @@
 </table>
 
 ---
-
-## 📊 WakaTime 活动图 & GitHub 活跃度
 
 <div align="center" style="max-width: 100%;">
 
@@ -72,12 +68,12 @@
 
 <div align="center">
 
-![Gamer's GitHub stats](https://github-readme-stats.vercel.app/api?username=GamerMMM&show_icons=true&theme=radical)
+![Gamer's GitHub stats](https://github-readme-stats.vercel.app/api?username=GamerMMM&show_icons=true&theme=light&hide_border=true)
+![Gamer's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GamerMMM&layout=compact&hide_border=true&langs_count=10)
 
 <p>
-  <img src="https://stats.justsong.cn/api/leetcode/?username=Gamer.&theme=light" alt="Gamer's LeetCode Stats" width="49%" />
-  <img src="https://stats.justsong.cn/api/steam" alt="Gamer's LeetCode Stats" width="49%" /> 
+  <img src="https://stats-cards-drab.vercel.app/api/leetcode/?cn_username=gamer-2k" alt="Gamer's LeetCode Stats" width="39%" style="border: none;" />
+  <img src="https://stats-cards-drab.vercel.app/api/steam/?id=76561199465474229" alt="Gamer's steam Stats" width="39%" style="border: none;" /> 
 </p>
-
 
 </div>
