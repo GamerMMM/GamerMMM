@@ -67,9 +67,6 @@
 ![Gamer's GitHub stats](https://github-readme-stats.vercel.app/api?username=GamerMMM&show_icons=true&theme=light&hide_border=true)
 ![Gamer's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GamerMMM&layout=compact&hide_border=true&langs_count=5)
 
-<p>
-  <img src="https://stats-cards-drab.vercel.app/api/leetcode/?cn_username=gamer-2k" alt="Gamer's LeetCode Stats" width="49%" style="border: none;" />
-  <img src="https://stats-cards-drab.vercel.app/api/steam/?id=76561199465474229" alt="Gamer's steam Stats" width="49%" style="border: none;" /> 
-</p>
+
 
 </div>
